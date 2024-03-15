@@ -5,7 +5,7 @@ Jr. Frontend Developer
 ----------------------
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm currently learning React
+* 🧠  I'm currently learning React and Nodejs
 * ✉️  You can contact me at [busengokler@gmail.com](mailto:busengokler@gmail.com)
 
 ### Skills 💻
